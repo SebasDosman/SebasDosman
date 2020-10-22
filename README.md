@@ -4,8 +4,8 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Enginering at Brigham Younh University Idaho.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Studying Proggramming of Software in SENA and Parquesoft TI.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

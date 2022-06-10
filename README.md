@@ -5,7 +5,8 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Proggramming of Software in SENA and Parquesoft TI.
+- 🎓 &nbsp; Graduate in software development programming certified by SENA and Parquesoft T.I.
+- 💻 &nbsp; Studying systems engineering at Universidad San Buenaventura Cali.
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>

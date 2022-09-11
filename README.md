@@ -24,6 +24,7 @@
   ![ReactJs](https://img.shields.io/badge/-ReactJs-333333?logo=react&logoColor=#61DAFB)
   ![Angular](https://img.shields.io/badge/-Angular-333333?logo=angular&logoColor=#DD0031)
   ![NodeJs](https://img.shields.io/badge/-Nodejs-333333?logo=nodedotjs&logoColor=#339933)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?logo=typescript&logoColor=#3178C6)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?logo=mysql&logoColor=#4479A1)

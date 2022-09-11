@@ -29,6 +29,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?logo=mysql&logoColor=#4479A1)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?logo=postgresql&logoColor=#4169E1)
+  ![MongoDB](https://img.shields.io/badge/-MOngoDB-333333?logo=mongodb&logoColor=#47A248)
 - 🛠 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Apache Netbeans](https://img.shields.io/badge/-Apache%20Netbeans-333333?style=flat&logo=apachenetbeanside&logoColor=#1B6AC6)

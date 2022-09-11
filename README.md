@@ -37,7 +37,8 @@
 
 <p align="center">
 <a href="mailto:jsdosman0@gmail.com"><img src="https://img.shields.io/badge/-Jsdosman0@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/-3174515474-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+<a href="https://wa.link/tm86sl"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sebasti%C3%A1n-dosman-8701a01b2/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
 <!--
 **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

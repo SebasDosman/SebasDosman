@@ -11,7 +11,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 🌐 &nbsp;
+- 👨🏻‍💻 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -28,10 +28,11 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?logo=mysql&logoColor=#4479A1)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?logo=postgresql&logoColor=#4169E1)
-- 🔧 &nbsp;
+- 🛠 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Apache Netbeans](https://img.shields.io/badge/-Apache%20Netbeans-333333?style=flat&logo=apachenetbeanside&logoColor=#1B6AC6)
   ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm&logoColor=#000000)
+  ![Replit](https://img.shields.io/badge/-Replit-333333?style=flat&logo=replit&logoColor=#667881)
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 

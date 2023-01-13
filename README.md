@@ -6,13 +6,13 @@
 ### **<div align="center">I'm Sebastián Dosman, a web developer 👨‍💻.</div>**  
   
 
-- <div align="center">🤔   Exploring new technologies and developing software solutions.</div>  
+- 🤔   Exploring new technologies and developing software solutions.  
   
 
-- <div align="center">🎓   Graduate in software development programming certified by SENA and Parquesoft T.I.</div>  
+- 🎓   Graduate in software development programming certified by SENA and Parquesoft T.I.  
   
 
-- <div align="center">💻   Studying systems engineering at Universidad San Buenaventura Cali.</div>  
+- 💻   Studying systems engineering at Universidad San Buenaventura Cali.  
   
 
 <br/>  
@@ -104,21 +104,13 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ndjekzxzikzttpknoju5qj5kry&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
 
 <br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
-<!--
-**cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **cdthomp1/cdthomp1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 

@@ -3,7 +3,7 @@
 </div>  
   
 
-### **I'm Juan Sebastián Dosman, a web developer 👨‍💻.**  
+### **I'm Juan Sebastián Dosman, a developer 👨‍💻.**  
   
 
 - 🤔   Exploring new technologies and developing software solutions.  

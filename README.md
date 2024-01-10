@@ -3,7 +3,7 @@
 </div>  
   
 
-### **I'm Juan Sebastián Dosman, a developer 👨‍💻.**  
+### **I'm Juan Sebastián Dosman, a software developer 👨‍💻.**  
   
 
 - 🤔   Exploring new technologies and developing software solutions.  
@@ -23,7 +23,7 @@
 
 
 
-### Frontend development
+### Frontend Development
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>    
@@ -38,7 +38,7 @@
 
 
 
-### Backend development
+### Backend Development
 <div align="center">
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> 
@@ -58,7 +58,7 @@
 
 
 
-### Development tools  
+### Development Tools  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  

@@ -4,6 +4,8 @@
 - 🎓 Graduate in software development programming certified by SENA and Parquesoft T.I.
 - 💻 Studying systems engineering at Universidad San Buenaventura Cali.
 
+<img align="right" height="150" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952u3povxqgzuhjvh4fl0eea8i175h6k9vi8a2xtr6j&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+
 <br/>
 
 ## My Skill Set

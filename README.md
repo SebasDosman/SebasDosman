@@ -1,4 +1,4 @@
-### **I'm Juan Sebastián Dosman, a software developer 👨‍💻.**
+## **I'm Juan Sebastián Dosman, a software developer 👨‍💻.**
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduate in software development programming certified by SENA and Parquesoft T.I.

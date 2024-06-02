@@ -1,7 +1,3 @@
-<div align="center" style="width: 100%">
-<img src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" align="center" style="width: 100%"/>
-</div>
-
 ### **I'm Juan Sebastián Dosman, a software developer 👨‍💻.**
 
 - 🤔 Exploring new technologies and developing software solutions.

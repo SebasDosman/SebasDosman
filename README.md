@@ -1,15 +1,12 @@
+<img align="center" height="150" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952u3povxqgzuhjvh4fl0eea8i175h6k9vi8a2xtr6j&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+
+<br/>
+
 ## **I'm Juan Sebastián Dosman, a software developer 👨‍💻.**
 
-<div align="center"> 
-  <div>
-    - 🤔 Exploring new technologies and developing software solutions.
-    - 🎓 Graduate in software development programming certified by SENA and Parquesoft T.I.
-    - 💻 Studying systems engineering at Universidad San Buenaventura Cali.
-  </div>
-  <div>
-    <img align="right" height="150" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952u3povxqgzuhjvh4fl0eea8i175h6k9vi8a2xtr6j&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
-  </div>
-</div>
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Graduate in software development programming certified by SENA and Parquesoft T.I.
+- 💻 Studying systems engineering at Universidad San Buenaventura Cali.
 
 <br/>
 

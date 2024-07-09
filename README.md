@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Juan Sebastián Dosman, a software developer 👨‍💻.</h2>
+<h1 align="center">Hi there, I'm Juan Sebastián Dosman, a software developer 👨‍💻.</h1>
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduate in software development programming certified by SENA and Parquesoft T.I.
@@ -10,7 +10,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-### Frontend Development
+<h2 align="center">Frontend Development</h2>
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>

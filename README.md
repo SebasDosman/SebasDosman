@@ -1,5 +1,5 @@
 <div align="center">  
-  ## **Hi there, I'm Juan Sebastián Dosman, a software developer 👨‍💻.**
+  **Hi there, I'm Juan Sebastián Dosman, a software developer 👨‍💻.**
 </div>
 
 - 🤔 Exploring new technologies and developing software solutions.

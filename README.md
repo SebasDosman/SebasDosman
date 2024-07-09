@@ -1,6 +1,4 @@
-<div align="center">  
-  **Hi there, I'm Juan Sebastián Dosman, a software developer 👨‍💻.**
-</div>
+<h2 align="center">Hi there, I'm Juan Sebastián Dosman, a software developer 👨‍💻.</h2>
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduate in software development programming certified by SENA and Parquesoft T.I.

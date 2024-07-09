@@ -10,7 +10,7 @@
 
 <table><tr><td valign="top" width="33%">
 
-<h2 align="center">Frontend Development</h2>
+<h3 align="center">Frontend Development</h3>
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -25,7 +25,7 @@
 
 </td><td valign="top" width="33%">
 
-### Backend Development
+<h3 align="center">Backend Development</h3>
 
 <div align="center">
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
@@ -44,7 +44,7 @@
 
 </td><td valign="top" width="33%">
 
-### DevOps
+<h3 align="center">DevOps</h3>
 
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  

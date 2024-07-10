@@ -2,7 +2,11 @@
 
 - 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Graduate in software development programming certified by SENA and Parquesoft T.I.
-- 💻 Studying systems engineering at Universidad San Buenaventura Cali.
+- 💻 Studying software engineering at Universidad de San Buenaventura Cali.
+- 🌍 Currently located at Cali, Colombia. GMT-5
+- 👨‍💻 All of my projects are available at [Github](https://github.com/SebasDosman)
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, NestJS, Java, Spring**.
+- 📫 How to reach me **jsdosman0@gmail.com**.
 
 <br/>
 

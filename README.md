@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there! I'm Juan Sebastian Dosman, a software developer 🤩.</h1>
 
-- 🤔 Exploring new technologies and developing software solutions.
+- 🧐 Exploring new technologies and developing software solutions.
 - 🎓 Graduate in software development programming certified by SENA and Parquesoft T.I.
 - 💻 Studying software engineering at Universidad de San Buenaventura Cali.
 - 🌍 Currently located at Cali, Colombia.

@@ -4,7 +4,7 @@
 
 - 🧠 Strong foundations in **SOLID principles, Clean Architecture and design patterns**
 - 🚀 Experience delivering **production-ready systems** in corporate and freelance environments
-- 🏢 Currently working as **Software Engineer Intern at Endava**
+- 🏢 Currently working as **Junior Software Engineer at Endava**
 - 🎓 Software Engineering student at Universidad de San Buenaventura Cali
 - 🌍 Based in Cali, Colombia
 - 📬 Contact: **jsdosman0@gmail.com**
@@ -12,7 +12,7 @@
 
 ## Experience Highlights
 
-- **Endava** – Software Engineer Intern  
+- **Endava** – Junior Software Engineer  
   Working on real-world enterprise solutions using modern architectures and agile practices.
 - **VortexBird** – Full Stack Developer  
   Developed scalable solutions for financial clients using **Spring Boot, Angular, Keycloak, RabbitMQ**.
